@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<room id="983004">
+	<title>The Kitchen</title>
+	<description>You are standing on a large beautiful kitchen. There are tall white painted cabinets. You can see white marble floors and granite counter tops. </description>
+        <entity class="mmorpg.model.items.food.Sardine"></entity> 
+        <entity class="mmorpg.model.items.SilverCoin"></entity> 
+        <entity class="mmorpg.model.items.food.Tequila"></entity> 
+        <entity class="mmorpg.model.items.food.Tequila"></entity> 
+        <entity class="mmorpg.model.items.food.Heiniken"></entity> 
+        <entity class="mmorpg.model.items.food.Pop"></entity> 
+        <entity class="mmorpg.model.items.food.Heiniken"></entity> 
+        <entity class="mmorpg.model.items.food.Spaghetti"></entity> 
+        <entity class="mmorpg.model.items.food.Rice"></entity> 
+        <entity class="mmorpg.model.items.food.Pear"></entity> 
+        <entity class="mmorpg.model.items.food.ApplePie"></entity> 
+        <entity class="mmorpg.model.items.food.Tomato"></entity> 
+        <entity class="mmorpg.model.items.food.Oats"></entity> 
+        <exit id="982985" label="deck"></exit> 
+        	         	
+</room>

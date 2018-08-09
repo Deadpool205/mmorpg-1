@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<room id="982991">
+	<title>The Forrest</title>
+	<description>You are in the forrest. There are many trees surrounding you. You'd better becareful, it could be easy to get lost. </description>
+        <!-- <entity class="mmorpg.model.living.Rabbit" name="Quick Rabbit"></entity> -->
+        <exit id="982988" label="south"></exit> 	
+</room>

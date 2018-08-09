@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<room id="982982">
+	<title>The Nest</title>
+	<description>This is the Sean's room. This room has a beautiful view of the ocean. You can hear the sound of the waves cracking off in the distance.</description>
+	<entity class="mmorpg.model.living.Butler" name="Jeeves" ></entity>
+	<entity class="mmorpg.model.items.food.Tomato"></entity>
+	<entity class="mmorpg.model.items.weapons.ButterKnife"></entity>
+	<entity class="mmorpg.model.items.clothing.RolexWatch"></entity>
+	<entity class="mmorpg.model.items.clothing.Suit"></entity>
+	<entity class="mmorpg.model.items.food.Wine"></entity>
+	<entity class="mmorpg.model.items.food.Cheese"></entity>
+	<entity class="mmorpg.model.items.food.Pizza"></entity>
+	<entity class="mmorpg.model.items.Couch"></entity>
+	<entity class="mmorpg.model.items.Bed"></entity>        
+	<entity class="mmorpg.model.items.food.ChickenDrumstick"></entity>
+	<exit id="982980" label="room" key="mmorpg.model.items.MindyKey"></exit>
+	<exit id="982983" label="down"></exit>
+	<exit id="982984" label="armoury" key="mmorpg.model.items.ArmouryKey"></exit>
+	
+</room>

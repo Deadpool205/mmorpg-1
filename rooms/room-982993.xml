@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<room id="982993">
+	<title>Clearing</title>
+	<description>You are in a small clearing in the forrest. You can see a small building up ahead in the distance.</description>
+        <entity class="mmorpg.model.living.Rabbit" name="Quick Rabbit"></entity> 
+        <exit id="982992" label="south"></exit> 	
+        <exit id="982994" label="building"></exit> 	
+         	
+</room>

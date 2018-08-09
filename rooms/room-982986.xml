@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<room id="982986">
+	<title>The Labratory</title>
+	<description>This is a wizards lab. You can see many pots boiling and smoke billowing out of culdrons. Someone has been here recently. </description>
+	<entity class="mmorpg.model.items.RedHerb"></entity>
+	<entity class="mmorpg.model.items.GreenHerb"></entity>
+        <entity class="mmorpg.model.items.PurplePoison"></entity>
+	<entity class="mmorpg.model.items.PottedPlant"></entity>
+        <exit id="982983" label="hall"></exit>
+        
+</room>

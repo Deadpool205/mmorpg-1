@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<room id="982987">
+	<title>The Garden</title>
+	<description>You are in a quiet garden. You can see many marble statues. There is a small bush off in the distance that leads into a forrest. </description>
+	<entity class="mmorpg.model.items.food.Apple"></entity>
+	<entity class="mmorpg.model.items.food.Apple"></entity>
+	<entity class="mmorpg.model.items.food.Apple"></entity>
+	<entity class="mmorpg.model.items.PottedPlant"></entity>
+        <entity class="mmorpg.model.items.AppleTree"></entity>
+        <entity class="mmorpg.model.items.MarbleFountain"></entity>
+        <exit id="982985" label="deck"></exit> 	
+        <exit id="982988" label="forrest"></exit> 	
+</room>

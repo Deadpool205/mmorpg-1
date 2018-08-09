@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<room id="983000">
+	<title>Newbie Center</title>
+	<description>You are standing on the private yard of the Beach House. </description>
+        <entity class="mmorpg.model.items.PottedPlant"></entity> 
+        <entity class="mmorpg.model.items.MarbleFountain"></entity> 
+        <entity class="mmorpg.model.items.ArmouryKey"></entity> 
+        <exit id="982998" label="side" ></exit> 	         	
+</room>

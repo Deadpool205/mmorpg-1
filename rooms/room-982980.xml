@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<room id="982980">
+	<title>Mindys Room</title>
+	<description>This is the Mindy's room. This room has a beautiful view of the ocean, through large bay windows. The room has high ceilings. You can hear the sound of the waves cracking off in the distance.</description>
+	<entity class="mmorpg.model.items.food.Tomato"></entity>
+	<entity class="mmorpg.model.items.weapons.ButterKnife"></entity>
+	<entity class="mmorpg.model.items.clothing.Dress"></entity>
+	<entity class="mmorpg.model.items.food.Rice"></entity>
+	<entity class="mmorpg.model.items.food.Tomato"></entity>
+	<entity class="mmorpg.model.items.Couch"></entity>
+	<!-- <entity class="mmorpg.model.items.Computer"></entity> -->
+	<entity class="mmorpg.model.items.Bed"></entity>
+	<entity class="mmorpg.model.items.PottedPlant"></entity>
+	<exit id="982982" label="room"></exit>
+	
+</room>

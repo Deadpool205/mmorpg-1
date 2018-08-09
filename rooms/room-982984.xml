@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<room id="982984">
+	<title>The Armoury</title>
+	<description>This is a room that is normally filled with weapons. The floors are polished concrete and there is a large flag on the wall.</description>
+	<entity class="mmorpg.model.items.weapons.Axe"></entity>
+	<entity class="mmorpg.model.items.weapons.SurvivalKnife"></entity>
+	<entity class="mmorpg.model.items.weapons.Sword"></entity>
+	<entity class="mmorpg.model.items.weapons.BroadSword"></entity>
+	<entity class="mmorpg.model.items.weapons.Spear"></entity>
+	<entity class="mmorpg.model.items.weapons.Mace"></entity>
+	<exit id="982982" label="nest"></exit> 	
+</room>

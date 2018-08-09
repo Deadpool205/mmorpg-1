@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<room id="982983">
+	<title>Long Hallway</title>
+	<description>This is a long hallway. The floors are marble and the walls are polished oak. There are several paintings on the wall.</description>
+	<entity class="mmorpg.model.items.PottedPlant"></entity>
+	<exit id="982982" label="ladder"></exit> 
+	<exit id="982981" label="archway"></exit>
+	<exit id="982986" label="door"></exit>
+	<exit id="982985" label="deck"></exit>
+</room>

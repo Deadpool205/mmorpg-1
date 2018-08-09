@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<room id="0">
+	<title>An Unknown Place</title>
+	<description>You are somewhere in the space time continuum.</description>
+        <entity class="mmorpg.model.items.SilverKey"></entity>
+        <entity class="mmorpg.model.items.ArmouryKey"></entity>
+        <entity class="mmorpg.model.items.DustyKey"></entity>
+        <entity class="mmorpg.model.items.weapons.Axe"></entity>
+        <entity class="mmorpg.model.items.food.Keg"></entity>
+        <entity class="mmorpg.model.items.MindyKey"></entity>
+        <entity class="mmorpg.model.items.food.Spaghetti"></entity>        
+        <entity class="mmorpg.model.items.Chest"></entity>
+        <entity class="mmorpg.model.items.Boulder"></entity>
+        <exit id="982986" label="door"></exit>
+</room>

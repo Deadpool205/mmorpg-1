@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<room id="983001">
+	<title>On The Beach</title>
+	<description>You are standing on a large beach with white sand. There is noone here. You can see the large ocean waves crashing into the beach. Some sardines have been washed ashore and have been baking in the hot sun. You can also see back around the side of the beach house. </description>
+        <entity class="mmorpg.model.items.food.Sardine"></entity> 
+        <exit id="983002" label="west"></exit> 
+        <exit id="982997" label="east"></exit> 
+        	         	
+</room>

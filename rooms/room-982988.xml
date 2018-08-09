@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<room id="982988">
+	<title>The Forrest</title>
+	<description>You are in the edge of the forrest. You can also see a garden off in the distance. Deeper into the forrest it appears to be very dark; something has been here recently. </description>
+        <entity class="mmorpg.model.living.Rabbit" name="Quick Rabbit"></entity>
+        <entity class="mmorpg.model.items.SilverKey"></entity>                 
+        <exit id="982987" label="garden"></exit> 	
+        <exit id="982989" label="east"></exit> 	
+        <exit id="982990" label="west"></exit> 	
+        <exit id="982991" label="north"></exit> 	
+</room>

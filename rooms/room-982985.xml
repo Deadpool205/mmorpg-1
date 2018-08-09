@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<room id="982985">
+	<title>The Deck</title>
+	<description>This is a beautiful outdoor deck. The deck is overlooking a large green garden with marble statues and well groomed hedges. </description>
+	<entity class="mmorpg.model.items.food.Apple"></entity>
+	<entity class="mmorpg.model.items.PottedPlant"></entity>
+        <exit id="982983" label="hall"></exit> 	
+        <exit id="982987" label="garden"></exit>
+        <exit id="983004" label="kitchen"></exit> 	
+</room>

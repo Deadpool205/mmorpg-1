@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<room id="982998">
+	<title>Side of the Beach House</title>
+	<description>You are standing on the side of the Beach House. You can see a large white sign. You can see the Yard around the front gate.</description>
+        <entity class="mmorpg.model.items.WhiteSign"></entity> 
+        <exit id="982997" label="beach"></exit> 	         	
+        <exit id="982999" label="gate" key="mmorpg.model.items.SilverKey"></exit> 	         	
+</room>

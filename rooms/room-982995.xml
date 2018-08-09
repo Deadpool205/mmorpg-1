@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<room id="982995">
+	<title>Bears Den</title>
+	<description>You are in a Bears Den! You should probably exit. You see many bones and dead things here..</description>
+        <entity class="mmorpg.model.living.Bear" name="Grizzly Bear"></entity> 
+        <entity class="mmorpg.model.living.Rabbit" name="Quick Rabbit"></entity> 
+        <entity class="mmorpg.model.living.Rabbit" name="Large Rabbit"></entity> 
+        <entity class="mmorpg.model.living.Rabbit" name="Small Rabbit"></entity> 
+        <exit id="982989" label="out"></exit> 	         	
+</room>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<room id="982981">
+	<title>This is Barry's Room.</title>
+	<description>This room has 2 large bay windows overlooking the Ocean. The room has a large, open concept ceiling with an open walk way directly down to the ocean.</description>
+	<entity class="mmorpg.model.living.Barry" name="Barry" ></entity>
+	<entity class="mmorpg.model.items.food.Pop"></entity>
+	<entity class="mmorpg.model.items.food.Pizza"></entity>
+	<entity class="mmorpg.model.items.food.ChickenWing"></entity>
+	<exit id="982983" label="hall"></exit> <!-- Room ID must be a unique integer! -->
+	<exit id="982997" label="beach"></exit> <!-- Room ID must be a unique integer! -->
+</room>
